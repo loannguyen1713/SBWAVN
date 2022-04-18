@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{BE2D8C8E-861F-4276-9BED-1514D0435A5A}">
+	<children>
+		<child name="loanpro1" key="{A989C29F-B0EE-4540-81D6-2C870FC9460E}" path="loanpro1\loanpro1.mds" />
+	</children>
+	<testItems key="{DED99FAA-7C7E-4802-8DFC-5850BEDC8C1C}">
+		<children>
+			<testItem key="{A989C29F-B0EE-4540-81D6-2C870FC9460E}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{33E248CC-C7B2-420F-B8D4-E8919F48CCD1}" />
+	<analysis key="{CA974E47-3C43-41FF-968A-56ECEC74857A}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
